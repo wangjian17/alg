@@ -4,7 +4,7 @@ package leetcode.datastruct;
 
 public class Pair {
 
-    int first, second;
+    int first, second, three;
 
     public Pair(int first, int second) {
         this.first = first;
